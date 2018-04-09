@@ -1,5 +1,3 @@
-
-
 getwd()
 ## R-Object
 ## 1.
